@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.6ce0b9afdc6d2db32ab912920e56f95b?rik=MvWnmWX30pDeTA&riu=http%3a%2f%2fcdn.playbuzz.com%2fcdn%2fae9824c4-7e8b-4ef3-8675-c34298b2fc59%2f38a94762-d8a1-4c11-8259-b0e1faae81b5.jpg&ehk=uNw2rG3%2feNhAQCGOJ42OLJNLcqCL4nmI4o1EhPqIQm4%3d&risl=&pid=ImgRaw&r=0)
+
+}
+.main{
+    display: flex;
+    justify-content: space-between; 
+    color: hsl(63, 89%, 52%);
+}
+h1{
+    
+    color: hwb(57 5% 16%);
+    background: black;
+}
+
+h2{
+    background: black;
+}
